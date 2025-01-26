@@ -1,3 +1,4 @@
+**************************************************************************************************************************************************
 ## E-Voting System with ASP.NET MVC
 
 It is an E-Voting system made in the Asp.NET MVC project. Information such as voter, candidate, vote, e-mail, password are stored in the database.
